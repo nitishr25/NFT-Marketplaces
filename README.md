@@ -1,7 +1,8 @@
 # NFT-Marketplaces
 Building an NFT marketplace involves several key components:
 
-Technical Skills: Proficiency in JavaScript (React.js/Vue.js), backend languages like Node.js or Python, and Solidity for smart contracts. Use Web3.js or Ethers.js for blockchain interactions.
+#Technical Skills:
+Proficiency in JavaScript (React.js/Vue.js), backend languages like Node.js or Python, and Solidity for smart contracts. Use Web3.js or Ethers.js for blockchain interactions.
 
 Blockchain Knowledge: Understand blockchain platforms like Ethereum, Binance Smart Chain, or Solana. Use tools like Infura or Alchemy to connect to the blockchain. Integrate crypto wallets like MetaMask for transactions.
 
